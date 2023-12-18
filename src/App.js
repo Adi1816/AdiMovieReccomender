@@ -32,7 +32,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>AdiRecommendor</h1>
+      <h1>AdiMovieRecommendor</h1>
       <div className="search">
         <input
           placeholder="Showing results for Batman, Go ahead & search your Fav Movie"
