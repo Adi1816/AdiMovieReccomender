@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AdiMovieReccomender/static/css/main.ff02fe68.css",
+    "main.js": "/AdiMovieReccomender/static/js/main.21715955.js",
+    "index.html": "/AdiMovieReccomender/index.html",
+    "static/media/search.svg": "/AdiMovieReccomender/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.ff02fe68.css.map": "/AdiMovieReccomender/static/css/main.ff02fe68.css.map",
+    "main.21715955.js.map": "/AdiMovieReccomender/static/js/main.21715955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02fe68.css",
+    "static/js/main.21715955.js"
+  ]
+}
